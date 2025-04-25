@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+fact1{
+    
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+fact2{
+    
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+fact3{
+   
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+a {
+    color:white;
+}
+img{
+    width: 75%;
+    height: auto;
+    
+}
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+    
+
